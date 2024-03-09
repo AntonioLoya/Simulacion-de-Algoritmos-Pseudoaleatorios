@@ -5,7 +5,7 @@
 Es un método propuesto en los años 40 por los matemáticos John von Neumann y Nicholas Metropolis, siendo utilizado para la generación de números pseudoaleatorios, Esto para obtener una sucesión de números que básicamente se obtienen a partir de recurrencia, los cuales son relevantes en los procesos de simulación debido a que con estos números se hace posible comprobar el correcto funcionamiento de una prueba mediante la observación del comportamiento de las variables que se puedan encontrar a lo largo de la simulación.
 
 
-#Simulación
+# Simulación
 
 Es una técnica numérica para conducir experimentos con relaciones matemáticas y lógicas, las cuales son necesarias para describir el comportamiento y la estructura de sistemas complejos del mundo real a través de largos periodos de tiempo.
 
